@@ -2,4 +2,4 @@ GIT is a version control system
 
 git is free software hhhhh
 
-maser branch new 
+new branch
